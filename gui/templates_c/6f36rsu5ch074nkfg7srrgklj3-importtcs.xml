@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="acceptance" tests="1" assertions="0" failures="0" errors="0" time="0.000000">
+    <testcase file="C:\xampp\htdocs\Codeception_Integration\tests\acceptance\FirstCest.php" name="tryToTest" class="FirstCest" feature="try to test" assertions="0" time="0.000000"/>
+  </testsuite>
+</testsuites>

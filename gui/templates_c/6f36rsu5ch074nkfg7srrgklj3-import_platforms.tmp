@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<project name="udg/vagrant-default" basedir="." default="main">
+
+    <property name="absolute.path" location="."/>
+    <property name="ant_path" value="${absolute.path}/ant-build"/>
+    <import file="${ant_path}/prepare.xml"/>
+
+
+    <target name="vagrant-provision">
+    </target>
+
+    <target name="vagrant-provision-always">
+        <apache.enable-modules/>
+        <apache.copy-config/>
+        <apache command="start"/>
+        <phpbrew.copy-config/>
+        <phpbrew.run/>
+        <framework.install-dev/>
+
+        <if>
+            <available file="composer.json" />
+            <else>
+                <echo>
+                    Vagrant box is up!
+
+                    If you would like to create a new project, follow these steps:
+                    - vagrant ssh (switch into your box via ssh)
+                    - cd /vagrant (change the directory to your project mount)
+                    - ant vagrant.bootstrap-project (start bootstraping)
+                    - follow the instructions on the screen
+                    - Smile!
+                </echo>
+            </else>
+        </if>
+    </target>
+
+    <!-- Main target: this will be called on normal stage. -->
+    <target name="main">
+        <echo message="No target provided. Please use one of the following:"/>
+        <antcall target="help"/>
+    </target>
+
+    <target name="help">
+        <echo message="help"/>
+    </target>
+
+    <!-- put your local build steps here, target is called after framework.install-prod and before framework.dist -->
+    <macrodef name="local.build">
+        <sequential>
+            <!-- npm install example
+            <npm.install path="${build.src.dir}/web/typo3conf/ext/EXTENSION/Resources/Public" />
+            -->
+            <!-- run tasks example
+            <gulp.command command="sass" path="${build.src.dir}/web/typo3conf/ext/templates/Resources/Public" />
+            -->
+        </sequential>
+    </macrodef>
+
+</project>
