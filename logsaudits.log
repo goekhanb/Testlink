@@ -2156,3 +2156,193 @@
 		Login for 'admin' from '::1' succeeded
 	[17/Nov/2 09:08:53][AUDIT][dtn90mg0ec28bvj9jacl08a4o1][GUI]
 		Login for 'admin' from '::1' succeeded
+	[17/Nov/2 09:35:16][AUDIT][bnv77ggnucepkobqbd8qbbke85][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 12:30:12][AUDIT][dtn90mg0ec28bvj9jacl08a4o1][GUI]
+		Logout of 'admin'
+	[17/Nov/3 12:32:12][AUDIT][om6hleitph5clrlr91kn9nd7l1][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 12:32:17][AUDIT][om6hleitph5clrlr91kn9nd7l1][GUI]
+		Test Project 'TA_59fc61cbbaeb9__automation' was created
+	[17/Nov/3 12:32:54][AUDIT][uf62g7sa7f2q7nuaae7tmpd585][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 12:32:59][AUDIT][uf62g7sa7f2q7nuaae7tmpd585][GUI]
+		Test Project 'TA_59fc61f531810__automation' was created
+	[17/Nov/3 12:33:10][AUDIT][uf62g7sa7f2q7nuaae7tmpd585][GUI]
+		Test Project 'TA_59fc61cbbaeb9__automation' - Test Plan 'TA_59fc61f531810_Test Plan' was created
+	[17/Nov/3 12:50:30][AUDIT][dtn90mg0ec28bvj9jacl08a4o1][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 12:54:20][AUDIT][vp55pec1bhpcbv5t3djdg3j2h0][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 12:54:23][AUDIT][vp55pec1bhpcbv5t3djdg3j2h0][GUI]
+		Test Project 'TA_59fc66fb89b1b__automation' was created
+	[17/Nov/3 12:54:33][AUDIT][vp55pec1bhpcbv5t3djdg3j2h0][GUI]
+		Test Project 'TA_59fc61f531810__automation' - Test Plan 'TA_59fc66fb89b1b_Test Plan' was created
+	[17/Nov/3 12:55:43][AUDIT][1gmjhb8kl6kqr1oja5snmmdf04][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 12:55:47][AUDIT][1gmjhb8kl6kqr1oja5snmmdf04][GUI]
+		Test Project 'TA_59fc674eea5fb__automation' was created
+	[17/Nov/3 12:55:58][AUDIT][1gmjhb8kl6kqr1oja5snmmdf04][GUI]
+		Test Project 'TA_59fc66fb89b1b__automation' - Test Plan 'TA_59fc674eea5fb_Test Plan' was created
+	[17/Nov/3 12:56:52][AUDIT][h5gvbbi83qtlccffk1a3d6j4a7][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 12:56:56][AUDIT][h5gvbbi83qtlccffk1a3d6j4a7][GUI]
+		Test Project 'TA_59fc6793da813__automation' was created
+	[17/Nov/3 12:57:07][AUDIT][h5gvbbi83qtlccffk1a3d6j4a7][GUI]
+		Test Project 'TA_59fc674eea5fb__automation' - Test Plan 'TA_59fc6793da813_Test Plan' was created
+	[17/Nov/3 12:59:18][AUDIT][vlmfdn0n3q72c9ef2clb2qukr4][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 12:59:20][AUDIT][vlmfdn0n3q72c9ef2clb2qukr4][GUI]
+		Test Project 'TA_59fc682540353__automation' was created
+	[17/Nov/3 12:59:32][AUDIT][vlmfdn0n3q72c9ef2clb2qukr4][GUI]
+		Test Project 'TA_59fc6793da813__automation' - Test Plan 'TA_59fc682540353_Test Plan' was created
+	[17/Nov/3 13:00:35][AUDIT][998val2p6m6pkh9vip6257hv77][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 13:00:39][AUDIT][998val2p6m6pkh9vip6257hv77][GUI]
+		Test Project 'TA_59fc6872beac3__automation' was created
+	[17/Nov/3 13:00:49][AUDIT][998val2p6m6pkh9vip6257hv77][GUI]
+		Test Project 'TA_59fc682540353__automation' - Test Plan 'TA_59fc6872beac3_Test Plan' was created
+	[17/Nov/3 13:03:18][AUDIT][4jl5v74i5o58j03114eoidr782][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 13:03:22][AUDIT][4jl5v74i5o58j03114eoidr782][GUI]
+		Test Project 'TA_59fc691669c87__automation' was created
+	[17/Nov/3 13:03:33][AUDIT][4jl5v74i5o58j03114eoidr782][GUI]
+		Test Project 'TA_59fc6872beac3__automation' - Test Plan 'TA_59fc691669c87_Test Plan' was created
+	[17/Nov/3 13:04:12][AUDIT][iv6nnev1pg4dt4gceqikeufa07][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 13:04:20][AUDIT][iv6nnev1pg4dt4gceqikeufa07][GUI]
+		Test Project 'TA_59fc694aecf2c__automation' was created
+	[17/Nov/3 13:04:30][AUDIT][iv6nnev1pg4dt4gceqikeufa07][GUI]
+		Test Project 'TA_59fc691669c87__automation' - Test Plan 'TA_59fc694aecf2c_Test Plan' was created
+	[17/Nov/3 13:05:28][AUDIT][1undsju32t3ovnq6nq76s7ns74][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 13:05:32][AUDIT][1undsju32t3ovnq6nq76s7ns74][GUI]
+		Test Project 'TA_59fc6997b10df__automation' was created
+	[17/Nov/3 13:05:44][AUDIT][1undsju32t3ovnq6nq76s7ns74][GUI]
+		Test Project 'TA_59fc694aecf2c__automation' - Test Plan 'TA_59fc6997b10df_Test Plan' was created
+	[17/Nov/3 13:13:42][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 13:13:49][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Plan 'TA_59fc61f531810_Test Plan'
+	[17/Nov/3 13:13:50][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Project with id 'TA_59fc61cbbaeb9__automation'
+	[17/Nov/3 13:13:50][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Test Project 'TA_59fc61cbbaeb9__automation' was deleted
+	[17/Nov/3 13:13:52][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Plan 'TA_59fc66fb89b1b_Test Plan'
+	[17/Nov/3 13:13:52][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Project with id 'TA_59fc61f531810__automation'
+	[17/Nov/3 13:13:53][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Test Project 'TA_59fc61f531810__automation' was deleted
+	[17/Nov/3 13:13:55][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Plan 'TA_59fc674eea5fb_Test Plan'
+	[17/Nov/3 13:13:55][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Project with id 'TA_59fc66fb89b1b__automation'
+	[17/Nov/3 13:13:55][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Test Project 'TA_59fc66fb89b1b__automation' was deleted
+	[17/Nov/3 13:13:57][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Plan 'TA_59fc6872beac3_Test Plan'
+	[17/Nov/3 13:13:58][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Project with id 'TA_59fc682540353__automation'
+	[17/Nov/3 13:13:58][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Test Project 'TA_59fc682540353__automation' was deleted
+	[17/Nov/3 13:13:59][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Plan 'TA_59fc691669c87_Test Plan'
+	[17/Nov/3 13:14:00][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Project with id 'TA_59fc6872beac3__automation'
+	[17/Nov/3 13:14:00][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Test Project 'TA_59fc6872beac3__automation' was deleted
+	[17/Nov/3 13:14:02][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Plan 'TA_59fc682540353_Test Plan'
+	[17/Nov/3 13:14:02][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Project with id 'TA_59fc6793da813__automation'
+	[17/Nov/3 13:14:02][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Test Project 'TA_59fc6793da813__automation' was deleted
+	[17/Nov/3 13:14:04][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Plan 'TA_59fc6997b10df_Test Plan'
+	[17/Nov/3 13:14:04][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Project with id 'TA_59fc694aecf2c__automation'
+	[17/Nov/3 13:14:04][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Test Project 'TA_59fc694aecf2c__automation' was deleted
+	[17/Nov/3 13:14:06][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Plan 'TA_59fc694aecf2c_Test Plan'
+	[17/Nov/3 13:14:06][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Project with id 'TA_59fc691669c87__automation'
+	[17/Nov/3 13:14:06][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Test Project 'TA_59fc691669c87__automation' was deleted
+	[17/Nov/3 13:14:09][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Project with id 'TA_59fc6997b10df__automation'
+	[17/Nov/3 13:14:09][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Test Project 'TA_59fc6997b10df__automation' was deleted
+	[17/Nov/3 13:14:11][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Plan 'TA_59fc6793da813_Test Plan'
+	[17/Nov/3 13:14:11][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Project with id 'TA_59fc674eea5fb__automation'
+	[17/Nov/3 13:14:12][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Test Project 'TA_59fc674eea5fb__automation' was deleted
+	[17/Nov/3 13:14:14][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Plan 'a'
+	[17/Nov/3 13:14:15][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Plan 'Test Plan Management'
+	[17/Nov/3 13:14:15][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Project with id 'Test Automation'
+	[17/Nov/3 13:14:16][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Test Project 'Test Automation' was deleted
+	[17/Nov/3 13:16:34][AUDIT][scn1bfm9a3ovlov3tt7pnk0eh6][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 13:16:37][AUDIT][scn1bfm9a3ovlov3tt7pnk0eh6][GUI]
+		Test Project 'TA_59fc6c31e4795__automation' was created
+	[17/Nov/3 13:17:26][AUDIT][111ph2b8bc92quesutr70t0474][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 13:17:29][AUDIT][111ph2b8bc92quesutr70t0474][GUI]
+		Test Project 'TA_59fc6c6592ba3__automation' was created
+	[17/Nov/3 13:17:37][AUDIT][111ph2b8bc92quesutr70t0474][GUI]
+		Test Project 'TA_59fc6c31e4795__automation' - Test Plan 'TA_59fc6c6592ba3_Test Plan' was created
+	[17/Nov/3 13:18:30][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Plan 'TA_59fc6c6592ba3_Test Plan'
+	[17/Nov/3 13:18:31][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Project with id 'TA_59fc6c31e4795__automation'
+	[17/Nov/3 13:18:31][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Test Project 'TA_59fc6c31e4795__automation' was deleted
+	[17/Nov/3 13:18:34][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		All user roles were unassigned from the Test Project with id 'TA_59fc6c6592ba3__automation'
+	[17/Nov/3 13:18:34][AUDIT][5tea70j3pd9lh0fjlec8phbnl0][GUI]
+		Test Project 'TA_59fc6c6592ba3__automation' was deleted
+	[17/Nov/3 13:18:46][AUDIT][6qsc3334l32uck9h679p7fcpt4][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 13:18:50][AUDIT][6qsc3334l32uck9h679p7fcpt4][GUI]
+		Test Project 'TA_59fc6cb5c96b9__automation' was created
+	[17/Nov/3 13:20:06][AUDIT][dj4o1iai7vspa0236d6jqggv50][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 13:20:10][AUDIT][dj4o1iai7vspa0236d6jqggv50][GUI]
+		Test Project 'TA_59fc6d05b4db4__automation' was created
+	[17/Nov/3 13:20:19][AUDIT][dj4o1iai7vspa0236d6jqggv50][GUI]
+		Test Project 'TA_59fc6cb5c96b9__automation' - Test Plan 'TA_59fc6d05b4db4_Test Plan' was created
+	[17/Nov/3 13:26:38][AUDIT][1p919bh8e5qineuvq11rsiv2f6][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 13:26:41][AUDIT][1p919bh8e5qineuvq11rsiv2f6][GUI]
+		Test Project 'TA_59fc6e8e35e74__automation' was created
+	[17/Nov/3 13:26:53][AUDIT][1p919bh8e5qineuvq11rsiv2f6][GUI]
+		Test Project 'TA_59fc6d05b4db4__automation' - Test Plan 'TA_59fc6e8e35e74_Test Plan' was created
+	[17/Nov/3 13:28:20][AUDIT][7lagqp046jq75kgn9g156vmmj0][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 13:28:23][AUDIT][7lagqp046jq75kgn9g156vmmj0][GUI]
+		Test Project 'TA_59fc6ef391364__automation' was created
+	[17/Nov/3 13:28:32][AUDIT][7lagqp046jq75kgn9g156vmmj0][GUI]
+		Test Project 'TA_59fc6e8e35e74__automation' - Test Plan 'TA_59fc6ef391364_Test Plan' was created
+	[17/Nov/3 13:31:17][AUDIT][v8vkoq20vsqdkniqcgkhh0m2m7][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 13:31:21][AUDIT][v8vkoq20vsqdkniqcgkhh0m2m7][GUI]
+		Test Project 'TA_59fc6fa50263c__automation' was created
+	[17/Nov/3 13:31:30][AUDIT][v8vkoq20vsqdkniqcgkhh0m2m7][GUI]
+		Test Project 'TA_59fc6ef391364__automation' - Test Plan 'TA_59fc6fa50263c_Test Plan' was created
+	[17/Nov/3 13:39:30][AUDIT][fke2o4lp1vrpg8l9kf2ma3smf2][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/3 13:39:33][AUDIT][fke2o4lp1vrpg8l9kf2ma3smf2][GUI]
+		Test Project 'TA_59fc71919a267__automation' was created
+	[17/Nov/3 13:39:42][AUDIT][fke2o4lp1vrpg8l9kf2ma3smf2][GUI]
+		Test Project 'TA_59fc6fa50263c__automation' - Test Plan 'TA_59fc71919a267_Test Plan' was created
+	[17/Nov/8 10:21:21][AUDIT][p85o4e4c5t066j3717tsh0ljq3][GUI]
+		Login for 'admin' from '::1' succeeded
+	[17/Nov/8 10:57:52][AUDIT][p85o4e4c5t066j3717tsh0ljq3][GUI]
+		Test Project 'TA_59f04bc63b3a0__automation' was saved

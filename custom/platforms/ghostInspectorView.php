@@ -20,10 +20,20 @@ require_once('FetchData.php');
          $file = json_decode($dataObject);
          var_dump($file);
       }
+
+      public function generateView()
+      {
+          echo <<< EOT
+<h1>Du hast die Json Datei :D</h1>
+  
+EOT;
+
+      }
+
 }
 
 $ghost = new GhostInspector();
 $ghost->start();
-
+$ghost->generateView();
 
 ?>
