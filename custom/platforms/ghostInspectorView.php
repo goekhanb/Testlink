@@ -24,7 +24,7 @@ require_once('FetchData.php');
       public function generateView()
       {
           echo <<< EOT
-<h1>Du hast die Json Datei :D</h1>
+<h1>Json File complete :D</h1>
   
 EOT;
 

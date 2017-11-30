@@ -111,36 +111,53 @@ if (count($gui->tplan_metrics) > 0) {
      * own part 1
      */
 
-    function getPercentageForGhost($status)
+    function getPercentageForGhostInspector($status)
     {
-        return $status ? 100 : 0;
+        return $status ? 100  : 0;
     }
+
 
     /**
      * @author: goekhan bastan
      * own part 2
      */
-    $fetchJson = $dataObject = file_get_contents('../../custom/platforms/myfile.json');
+    $fetchJson = $dataObokject = file_get_contents('../../custom/platforms/myfile.json');
     $jsonObj = json_decode($fetchJson, TRUE);
-    $ghostArray = array();
 
     if ($jsonObj['code'] == "SUCCESS") {
-        $row = array();
 
-        foreach ($jsonObj['data'] as $key) {
-            $row[] = $key['name'];
-            $row[] = getPercentageForGhost($key['passing']);
-            $row[] = 'not run';
-            $row[] = 'passed';
-            $row[] = 'failed';
-            $row[] = 'blocked';
-            $row[] = 'progress';
-            $row['th_active_tc'] = $key['passing'];
-            $matrixData[] = $row;
 
+        foreach ($jsonObj['data'] as $key)
+        {
+            $testArr = $columns;
+            $testArr[0] = $key['name'];
+            $testArr[1] = $key['_id'];
+            $testArr[2] = $key[''];
+            $testArr[3] = $key[''];
+            $testArr[4] = $key[''];
+            $testArr[5] = $key[''];
+            $testArr[6] = $key[''];
+            $testArr[7] = $key[''];
+            $testArr[8] = $key[''];
+            $testArr[9] = $key[''];
+            $testArr[10] = $key[''];
+
+            foreach ($columns as $col => $name)
+            {
+                if($col == 0) {
+                    $testArr[0] = $key['name'];
+                }
+                if($col == 5) {
+                    $testArr[5] = getPercentageForGhostInspector($key['passing']);
+                }
+
+                if($col == 1)
+                {
+                    $testArr[1] = $key['_id'];
+                }
+            }
+            $matrixData[] = $testArr;
         }
-        $result_cfg['status_label'];
-        //var_dump($matrixData);
     }
 
     $table = new tlExtTable($columns, $matrixData, 'tl_table_metrics_dashboard');

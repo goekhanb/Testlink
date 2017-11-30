@@ -1,4 +1,4 @@
-You should change the default password for the 'admin' account!
+Unknown Schema version DB 1.9.16, please upgrade your Testlink Database to DB 1.4
 Check following parameters of email feature:
 tl_admin_email
 from_email
